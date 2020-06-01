@@ -1,0 +1,35 @@
+[
+{
+"id":"2947a985-e73c-44aa-8332-e927399e1cf0",
+"owner":"user4",
+"title":"Video1",
+"content": "First Video",
+"intendedAudience": "Drama lovers",
+"likes": [],
+"dislikes": [],
+"date":"Sun May 24 12:43:24 EET 2020",
+"comments": [{"user":"user2","content":"Great Video"},{"user":"user1","content":"Not so good"},{"user":"user1","content":"good enough"},{"user":"user2","content":"IDK"}]
+},
+{
+"id":"2947a985-e73c-44aa-8332-e9273992345f",
+"owner":"user2",
+"title":"Video2",
+"content": "Second video",
+"intendedAudience": "Action",
+"likes": ["user1"],
+"dislikes": ["user2"],
+"date":"Thu May 28 14:43:24 EET 2020",
+"comments": []
+},
+{
+"id":"1249d635-aee3-4025-9db7-925e222ae71f",
+"owner":"user2",
+"title":"Video3",
+"content": "Last video",
+"intendedAudience": "Comedy",
+"likes": ["user1","user2"],
+"dislikes": ["user1"],
+"date":"Thu May 24 12:43:04 EET 2018",
+"comments": [{"user":"user2","content":"Yıl 2020 hala keyifle izliyoruz"},{"user":"user1","content":"previous comment was right"}]
+}
+]

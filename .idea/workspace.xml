@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="G07_CENG431_HW3:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="15c6d873-3484-4758-812b-460c87f86832" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/G07_CENG431_HW3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/G07_CENG431_HW3/App/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/G07_CENG431_HW3/App/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/G07_CENG431_HW3/App/ModelCreator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/G07_CENG431_HW3/App/ModelCreator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/G07_CENG431_HW3/App/ViewCreator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/G07_CENG431_HW3/App/ViewCreator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/G07_CENG431_HW3/Views/LoginView$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/G07_CENG431_HW3/Views/LoginView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/G07_CENG431_HW3/Views/LoginView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/App/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App/ModelCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/App/ModelCreator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App/ViewCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/App/ViewCreator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Views/LoginView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Views/LoginView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/videos.json" beforeDir="false" afterPath="$PROJECT_DIR$/videos.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/G07_CENG431_HW3$LoginController.ic" NAME="LoginController Coverage Results" MODIFIED="1590230814584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Controllers.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>addBackButtonListener</find>
+      <find>ProfileBtnSubscribersListener</find>
+      <find>watchlistView</find>
+      <find>WatchListsButtonListener</find>
+      <find>videoPanel</find>
+      <find>intendedAudience</find>
+      <find>VideoButtonListenerForWatchlist</find>
+      <find>watchlist</find>
+      <find>SubscriberBackButtonListener</find>
+      <find>addSubscriberListener</find>
+      <find>setVisible</find>
+      <find>SubscriberButtonForSubscribersListener</find>
+      <find>SubscriberProfileView</find>
+      <find>user</find>
+      <find>Subscriber</find>
+      <find>subscriber</find>
+      <find>SubscribersButtonListenerForSubscriberProfile</find>
+      <find>addWatchListListeners</find>
+      <find>VideoViewBackButtonListenerForWatchlist</find>
+      <find>findVideoByTitle</find>
+      <find>dateFormatter</find>
+      <find>findUserByUsername</find>
+      <find>System.out.pri</find>
+      <find>UserIO</find>
+      <find>VideoIO</find>
+      <find>subscription</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="255" />
+    <option name="y" value="471" />
+    <option name="width" value="1350" />
+    <option name="height" value="690" />
+  </component>
+  <component name="ProjectId" id="1cK8xDHAAcLa7MP4INaBOHHaP8n" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590513573790" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App.App" />
+      <module name="G07_CENG431_HW3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="App.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Controllers.LoginController" />
+      <module name="G07_CENG431_HW3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Controllers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Player" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App.Player" />
+      <module name="G07_CENG431_HW3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Controllers.UserController" />
+      <module name="G07_CENG431_HW3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Controllers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserIO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataIO.UserIO" />
+      <module name="G07_CENG431_HW3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataIO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.LoginController" />
+      <item itemvalue="Application.UserIO" />
+      <item itemvalue="Application.UserController" />
+      <item itemvalue="Application.Player" />
+      <item itemvalue="Application.App" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.Player" />
+        <item itemvalue="Application.UserController" />
+        <item itemvalue="Application.LoginController" />
+        <item itemvalue="Application.UserIO" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15c6d873-3484-4758-812b-460c87f86832" name="Default Changelist" comment="" />
+      <created>1590171046290</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590171046290</updated>
+      <workItem from="1590266182881" duration="815000" />
+      <workItem from="1590313567354" duration="4192000" />
+      <workItem from="1590349339095" duration="7093000" />
+      <workItem from="1590440243583" duration="3181000" />
+      <workItem from="1590513850898" duration="2278000" />
+      <workItem from="1590516330160" duration="25000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="453" y="108" key="#com.intellij.ide.util.MemberChooser" timestamp="1590514641555">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="510" y="122" key="#com.intellij.ide.util.MemberChooser/-1440.0.1440.900/0.0.1440.900@0.0.1440.900" timestamp="1590322688727" />
+    <state x="453" y="108" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800@0.0.1280.800" timestamp="1590514641555" />
+    <state x="434" y="197" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1590516150770">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="434" y="197" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.800@0.0.1280.800" timestamp="1590516150770" />
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1590515023738">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.800@0.0.1280.800" timestamp="1590515023738" />
+    <state x="425" y="173" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590319003096">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="425" y="173" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1440.0.1440.900/0.0.1440.900@0.0.1440.900" timestamp="1590319003096" />
+    <state x="378" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.800@0.0.1280.800" timestamp="1590266740262" />
+    <state width="492" height="466" key="DebuggerActiveHint" timestamp="1590437333527">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="492" height="466" key="DebuggerActiveHint/-1440.0.1440.900/0.0.1440.900@0.0.1440.900" timestamp="1590437333527" />
+    <state width="1238" height="146" key="GridCell.Tab.0.bottom" timestamp="1590515817197">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1398" height="213" key="GridCell.Tab.0.bottom/-1440.0.1440.900/0.0.1440.900@0.0.1440.900" timestamp="1590438892057" />
+    <state width="1398" height="304" key="GridCell.Tab.0.bottom/-1440.23.1440.877/0.0.1440.900@0.0.1440.900" timestamp="1590434226058" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/-1440.23.1440.877/0.23.1440.877@0.23.1440.877" timestamp="1590321223209" />
+    <state width="1238" height="146" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1590515817197" />
+    <state width="1238" height="146" key="GridCell.Tab.0.bottom/0.23.1280.725@0.23.1280.725" timestamp="1590515495167" />
+    <state width="1238" height="148" key="GridCell.Tab.0.bottom/0.23.1280.726@0.23.1280.726" timestamp="1590355044254" />
+    <state width="1238" height="146" key="GridCell.Tab.0.center" timestamp="1590515817195">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1398" height="213" key="GridCell.Tab.0.center/-1440.0.1440.900/0.0.1440.900@0.0.1440.900" timestamp="1590438892052" />
+    <state width="1398" height="304" key="GridCell.Tab.0.center/-1440.23.1440.877/0.0.1440.900@0.0.1440.900" timestamp="1590434226052" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/-1440.23.1440.877/0.23.1440.877@0.23.1440.877" timestamp="1590321223175" />
+    <state width="1238" height="146" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1590515817195" />
+    <state width="1238" height="146" key="GridCell.Tab.0.center/0.23.1280.725@0.23.1280.725" timestamp="1590515495159" />
+    <state width="1238" height="148" key="GridCell.Tab.0.center/0.23.1280.726@0.23.1280.726" timestamp="1590355044252" />
+    <state width="1238" height="146" key="GridCell.Tab.0.left" timestamp="1590515817195">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1398" height="213" key="GridCell.Tab.0.left/-1440.0.1440.900/0.0.1440.900@0.0.1440.900" timestamp="1590438892049" />
+    <state width="1398" height="304" key="GridCell.Tab.0.left/-1440.23.1440.877/0.0.1440.900@0.0.1440.900" timestamp="1590434226048" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/-1440.23.1440.877/0.23.1440.877@0.23.1440.877" timestamp="1590321223168" />
+    <state width="1238" height="146" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1590515817195" />
+    <state width="1238" height="146" key="GridCell.Tab.0.left/0.23.1280.725@0.23.1280.725" timestamp="1590515495157" />
+    <state width="1238" height="148" key="GridCell.Tab.0.left/0.23.1280.726@0.23.1280.726" timestamp="1590355044242" />
+    <state width="1238" height="146" key="GridCell.Tab.0.right" timestamp="1590515817196">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1398" height="213" key="GridCell.Tab.0.right/-1440.0.1440.900/0.0.1440.900@0.0.1440.900" timestamp="1590438892053" />
+    <state width="1398" height="304" key="GridCell.Tab.0.right/-1440.23.1440.877/0.0.1440.900@0.0.1440.900" timestamp="1590434226054" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/-1440.23.1440.877/0.23.1440.877@0.23.1440.877" timestamp="1590321223197" />
+    <state width="1238" height="146" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1590515817196" />
+    <state width="1238" height="146" key="GridCell.Tab.0.right/0.23.1280.725@0.23.1280.725" timestamp="1590515495159" />
+    <state width="1238" height="148" key="GridCell.Tab.0.right/0.23.1280.726@0.23.1280.726" timestamp="1590355044253" />
+    <state width="1398" height="346" key="GridCell.Tab.1.bottom" timestamp="1590438128307">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="346" key="GridCell.Tab.1.bottom/-1440.0.1440.900/0.0.1440.900@0.0.1440.900" timestamp="1590438128307" />
+    <state width="1398" height="155" key="GridCell.Tab.1.bottom/-1440.23.1440.877/0.0.1440.900@0.0.1440.900" timestamp="1590434447491" />
+    <state width="1398" height="346" key="GridCell.Tab.1.center" timestamp="1590438128302">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="346" key="GridCell.Tab.1.center/-1440.0.1440.900/0.0.1440.900@0.0.1440.900" timestamp="1590438128302" />
+    <state width="1398" height="155" key="GridCell.Tab.1.center/-1440.23.1440.877/0.0.1440.900@0.0.1440.900" timestamp="1590434447481" />
+    <state width="1398" height="346" key="GridCell.Tab.1.left" timestamp="1590438128298">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="346" key="GridCell.Tab.1.left/-1440.0.1440.900/0.0.1440.900@0.0.1440.900" timestamp="1590438128298" />
+    <state width="1398" height="155" key="GridCell.Tab.1.left/-1440.23.1440.877/0.0.1440.900@0.0.1440.900" timestamp="1590434447479" />
+    <state width="1398" height="346" key="GridCell.Tab.1.right" timestamp="1590438128305">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="346" key="GridCell.Tab.1.right/-1440.0.1440.900/0.0.1440.900@0.0.1440.900" timestamp="1590438128305" />
+    <state width="1398" height="155" key="GridCell.Tab.1.right/-1440.23.1440.877/0.0.1440.900@0.0.1440.900" timestamp="1590434447483" />
+    <state x="185" y="0" key="SettingsEditor" timestamp="1590516155843">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="208" y="31" key="SettingsEditor/-1440.0.1440.900/0.0.1440.900@0.0.1440.900" timestamp="1590310141783" />
+    <state x="185" y="0" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1590516155843" />
+    <state x="491" y="321" key="VCS.ChangelistChooser" timestamp="1590514324035">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="491" y="321" key="VCS.ChangelistChooser/0.0.1280.800@0.0.1280.800" timestamp="1590514324035" />
+    <state x="428" y="321" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590315907654">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="428" y="321" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.800@0.0.1280.800" timestamp="1590315907654" />
+    <state x="426" y="207" width="588" height="486" key="find.popup" timestamp="1590320976911">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="426" y="207" width="588" height="486" key="find.popup/-1440.0.1440.900/0.0.1440.900@0.0.1440.900" timestamp="1590320976911" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1590315902289">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1590315902289" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+</project>
